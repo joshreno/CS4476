@@ -1,2 +1,2 @@
 # CS4476
-Computer Vision Fall 2018
+Intro to Computer Vision Fall 2018
